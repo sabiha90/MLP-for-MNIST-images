@@ -1,0 +1,1 @@
+A project for identifying digits into one of the 9 digits from 0 to 9 using multilayer perceptron algorithm. Although, CNN is useful for classifying images, MLP can be used when the image is not very noisy and the layout of the pixels is a standard one.
